@@ -1,0 +1,4 @@
+# Project exclude paths
+/common/service_utils/target/
+/model/target/
+/service/service_vod/target/
